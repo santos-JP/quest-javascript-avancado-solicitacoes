@@ -148,6 +148,10 @@ main{
     color: #fff;
 }
 
+.container .profile-data .repositories ul li a p{
+    background-color: hotpink;
+}
+
 .container .profile-data.hide{
     display: none;
 }
